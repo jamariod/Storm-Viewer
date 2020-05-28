@@ -1,0 +1,2 @@
+# Storm-Viewer
+Storm Viewer is a simple project that displays images in a UITableView. Once the user taps on the image in the table cell the image will display in a different view controller(DetailViewController).  While on the DetailViewController the user have the ability to share the image via social media, email or save the image.  This is allowed by adding UIActivityViewController to the DetailViewController and changes to the “Information Property List”.
